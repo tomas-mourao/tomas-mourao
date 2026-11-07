@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Tomás Mourão! 👋
 
-<!--
-**tomas-mourao/tomas-mourao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui pode encontrar os projetos que desenvolvi ao longo do meu percurso académico em Ciência de Dados no ISCTE, organizados por cadeiras/disciplinas:
 
-Here are some ideas to get you started:
+## 🎓 Projetos Universitários
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 Cadeira de Programação (1ºAno, 1ºSemestre)
+* [lcd-fit-gym-management](https://github.com) — Sistema de gestão para ginásios e planos de treino.
+  
+### 🚇 Cadeira de Estruturas de Dados e Algoritmos (1ºAno, 2ºSemestre) 
+* [Sistema-de-Atendimento-Publico](https://github.com) — Aplicação para gestão de filas e fluxos de atendimento ao público.
+* [london-metro-algorithms](https://github.com) — Resolução de problemas e algoritmos aplicados à rede de metro de Londres.
+
+
+---
+🛠️ **Tecnologias utilizadas:** Python, SQL, NoSQl
