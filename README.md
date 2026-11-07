@@ -13,4 +13,4 @@ Aqui pode encontrar os projetos que desenvolvi ao longo do meu percurso académi
 
 
 ---
-🛠️ **Tecnologias utilizadas:** Python, SQL, NoSQl
+🛠️ **Tecnologias utilizadas:** Python, R, SQL, NoSQl
