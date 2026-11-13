@@ -1,27 +1,28 @@
-Olá, eu sou o Tomás Mourão! 👋
-Aqui pode encontrar os projetos que desenvolvi ao longo do meu percurso académico em Ciência de Dados no ISCTE, organizados por cadeiras/disciplinas:
+# Hi, I'm Tomás Mourão 👋
 
-## 🎓 Projetos Universitários
+Data Science student at **ISCTE – University Institute of Lisbon**. Below are the projects I've built during my degree, grouped by course.
 
-🏢 **Cadeira de Programação (1ºAno, 1ºSemestre)**
-* [lcd-fit-gym-management](https://github.com/tomas-mourao/lcd-fit-gym-management) — Sistema de gestão para ginásios e planos de treino.
+## 🎓 University projects
 
+### Year 1 · Semester 1
 
-📊 **Cadeira de Análise Exploratória de Dados (1ºAno, 1ºSemestre)**
-* [exploratory-data-analysis-r](https://github.com/tomas-mourao/Trabalho-com-Excel) — Análise exploratória de dados em R, com relatório em R Markdown.
+🏢 **Programming**
+- [lcd-fit-gym-management](https://github.com/tomas-mourao/lcd-fit-gym-management): console gym management system in Python (members, classes and subscriptions).
 
+📊 **Exploratory Data Analysis**
+- [exploratory-data-analysis-r](https://github.com/tomas-mourao/exploratory-data-analysis-r): analysis of the European Values Study (Portugal vs Finland) in R Markdown.
 
-📱 **Cadeira de Dados na Ciência, Gestão e Sociedade (1ºAno, 1ºSemestre)**
-* [Mobile-Device-Usage-and-User-Behavior](https://github.com/tomas-mourao/Trabalho-Orange) — Projeto de grupo sobre o comportamento de utilizadores de dispositivos móveis, seguindo a metodologia CRISP-DM no Orange Data Mining.
+📱 **Data in Science, Management and Society**
+- [mobile-user-behavior-analysis](https://github.com/tomas-mourao/mobile-user-behavior-analysis): group project on mobile device user behavior, following CRISP-DM in Orange Data Mining.
 
+### Year 1 · Semester 2
 
-🚇 **Cadeira de Estruturas de Dados e Algoritmos (1ºAno, 2ºSemestre)**
-* [Sistema-de-Atendimento-Publico](https://github.com/tomas-mourao/Sistema-de-Atendimento-Publico) — Aplicação para gestão de filas e fluxos de atendimento ao público.
-* [london-metro-algorithms](https://github.com/tomas-mourao/london-metro-algorithms) — Resolução de problemas e algoritmos aplicados à rede de metro de Londres.
+🚇 **Data Structures and Algorithms**
+- [public-service-queue-system](https://github.com/tomas-mourao/public-service-queue-system): public service ticket queue system built on custom linked-list data structures.
+- [london-metro-algorithms](https://github.com/tomas-mourao/london-metro-algorithms): Dijkstra shortest paths and Kruskal MST on the London Underground network, with interactive maps.
 
+🐟 **Optimization for Data Science**
+- [boapesca-linear-optimization](https://github.com/tomas-mourao/boapesca-linear-optimization): linear programming model to minimize production and distribution costs, solved with Excel Solver.
 
-🐟 **Cadeira de Otimização para Ciência de Dados (1ºAno, 2ºSemestre)**
-* [Caso BoaPesca](https://github.com/tomas-mourao/Otimizacao-com-Excel) — Caso BoaPesca: modelo de Programação Linear para minimizar custos de produção e distribuição, resolvido no Excel (Solver) com análise de sensibilidade.
-
-
-🛠️ **Tecnologias utilizadas:** Python, R, SQL, NoSQL, Excel, Orange
+## 🛠️ Tech stack
+Python · R · SQL · NoSQL · Excel · Orange Data Mining
