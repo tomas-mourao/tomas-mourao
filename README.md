@@ -8,11 +8,11 @@ Aqui pode encontrar os projetos que desenvolvi ao longo do meu percurso académi
 
 
 📊 **Cadeira de Análise Exploratória de Dados (1ºAno, 1ºSemestre)**
-* [Trabalho-com-Excel](https://github.com/tomas-mourao/Trabalho-com-Excel) — Análise exploratória de dados em R, com relatório em R Markdown.
+* [exploratory-data-analysis-r](https://github.com/tomas-mourao/Trabalho-com-Excel) — Análise exploratória de dados em R, com relatório em R Markdown.
 
 
 📱 **Cadeira de Dados na Ciência, Gestão e Sociedade (1ºAno, 1ºSemestre)**
-* [Trabalho-Orange](https://github.com/tomas-mourao/Trabalho-Orange) — Projeto de grupo sobre o comportamento de utilizadores de dispositivos móveis, seguindo a metodologia CRISP-DM no Orange Data Mining.
+* [Mobile-Device-Usage-and-User-Behavior](https://github.com/tomas-mourao/Trabalho-Orange) — Projeto de grupo sobre o comportamento de utilizadores de dispositivos móveis, seguindo a metodologia CRISP-DM no Orange Data Mining.
 
 
 🚇 **Cadeira de Estruturas de Dados e Algoritmos (1ºAno, 2ºSemestre)**
@@ -21,7 +21,7 @@ Aqui pode encontrar os projetos que desenvolvi ao longo do meu percurso académi
 
 
 🐟 **Cadeira de Otimização para Ciência de Dados (1ºAno, 2ºSemestre)**
-* [Otimizacao-com-Excel](https://github.com/tomas-mourao/Otimizacao-com-Excel) — Caso BoaPesca: modelo de Programação Linear para minimizar custos de produção e distribuição, resolvido no Excel (Solver) com análise de sensibilidade.
+* [Caso BoaPesca](https://github.com/tomas-mourao/Otimizacao-com-Excel) — Caso BoaPesca: modelo de Programação Linear para minimizar custos de produção e distribuição, resolvido no Excel (Solver) com análise de sensibilidade.
 
 
 🛠️ **Tecnologias utilizadas:** Python, R, SQL, NoSQL, Excel, Orange
